@@ -46,4 +46,4 @@ jobs:
 # aws ecr describe-images --> returns metadata about the images in a repository
 # docker build --build-arg (allows you to pass variables to your dockerfile, -t allows you to tag the image, i.e giving it a name and version
 # docker push allows you to push the image in the registry
-##
+#
